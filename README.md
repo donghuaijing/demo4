@@ -1,7 +1,11 @@
 # demo4
+
 课上问题
+
 #github
+ 
 ##问题集1
+
 1.	GitHub是什么
 IT技术人员的社交网站（一个面向开源及私有软件项目的托管平台）
 2. Git是什么
@@ -40,8 +44,8 @@ JavaScript语言使用人数超过了Java
 14.	搜索结果分别有哪些类别
 项目、代码、提交，issues，users，wiki
 
-
 ##问题集2
+
 1. 个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？
 New repository新仓库
 Import repository导入库
@@ -100,10 +104,8 @@ git log
 25. Push的意义是
 本地仓库的文件推送到远程仓库上
 
-
-
-
 ##问题集3
+
 1. MarkDown是什么？
 Markdown 是一个 Web 上使用的文本到HTML的转换工具，
 可以通过简单、易读易写的文本格式生成结构化的HTML文档。
